@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1648889988 source:d:\ibrahim\fci\work\project fp\c++\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<bits/stdc++.h>
+
+1678678160 source:c:\users\ibrahim\documents\c++\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<bits/stdc++.h>
+
+1678761767 source:c:\users\ibrahim\downloads\project\c++\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<bits/stdc++.h>
+
